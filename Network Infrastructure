@@ -1,3 +1,19 @@
 Camada OSI - modelo de referência
 Encapsulamento do trafego camada por camada para ser enviado na rede
 
+Topologia de Redes
+
+Ambiente 2 tiers
+
+Camada de Distribuição/Core ou Colapsed - Responsável pelo fluxo de tráfego interno e externo da rede
+Camada de acesso - Conecta os dispositivos finais à rede (switches, PCs, APs, impressoras, etc.)
+
+Ambiente 3 tiers
+
+Camada Core - Responsável pelo transporte de dados em alta velocidade entre os segmentos da rede
+Camada de Distribuição- Responsável pelo fluxo de tráfego interno e externo da rede
+Camada de acesso - Conecta os dispositivos finais à rede (switches, PCs, APs, impressoras, etc.)
+
+Mac Adrees 
+OUI - Organisationally Unique Identifier
+NIC - Network Interface Controller
