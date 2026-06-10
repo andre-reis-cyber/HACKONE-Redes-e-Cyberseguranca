@@ -1,6 +1,19 @@
 Camada OSI - modelo de referência
 Encapsulamento do trafego camada por camada para ser enviado na rede
 
+Upper layers
+
+Application - Camada que contem o protocolo que a aplicação utiliza (Http, SEMTP, POP, etc)
+Presentation - Camada responsável pela interpretação e formatação dos dados da aplicação (Http lê o HTML ou PHP)
+Session - Camada que define qual porta de origem e destino para estabelecer gerenciar e encerrar sessões de comunicação entre aplicativos
+
+Lower Layer
+
+Transport - Camada responsavel pela comunicação fim a fim utilizando protocolos como UDP e TCP e como os pacotes serão enviados, se usará Fragmentação e Sequenciamento dos pacotes
+Network - Camada responsável pelo endereçamento lógico (IP) e o descobrimento da rede pelo roteamento dos pacotes
+Data link - Camada responsável pelo endereçamento fisico (MAC) e pela comunicação na rede local
+Physical - Camada que transporta os dados em bits através de sinais elétricos pelo meio físico (cabos, fibra ou sinal sem fio)
+
 Topologia de Redes
 
 Ambiente 2 tiers
