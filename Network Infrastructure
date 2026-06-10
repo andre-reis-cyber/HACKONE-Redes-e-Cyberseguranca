@@ -3,16 +3,18 @@ Encapsulamento do trafego camada por camada para ser enviado na rede
 
 Upper layers
 
-Application - Camada que contem o protocolo que a aplicação utiliza (Http, SEMTP, POP, etc)
-Presentation - Camada responsável pela interpretação e formatação dos dados da aplicação (Http lê o HTML ou PHP)
-Session - Camada que define qual porta de origem e destino para estabelecer gerenciar e encerrar sessões de comunicação entre aplicativos
+Application - Camada que contem o protocolo que a aplicação utiliza (Http, SEMTP, POP, etc) - Dados
+Presentation - Camada responsável pela interpretação e formatação dos dados da aplicação (Http lê o HTML ou PHP) - Dados
+Session - Camada que define qual porta de origem e destino para estabelecer gerenciar e encerrar sessões de comunicação entre aplicativos - Dados
 
 Lower Layer
 
-Transport - Camada responsavel pela comunicação fim a fim utilizando protocolos como UDP e TCP e como os pacotes serão enviados, se usará Fragmentação e Sequenciamento dos pacotes
-Network - Camada responsável pelo endereçamento lógico (IP) e o descobrimento da rede pelo roteamento dos pacotes
-Data link - Camada responsável pelo endereçamento fisico (MAC) e pela comunicação na rede local
-Physical - Camada que transporta os dados em bits através de sinais elétricos pelo meio físico (cabos, fibra ou sinal sem fio)
+Transport - Camada responsavel pela comunicação fim a fim utilizando protocolos como UDP e TCP e como os pacotes serão enviados, se usará Fragmentação e Sequenciamento dos pacotes - Segmentos
+Network - Camada responsável pelo endereçamento lógico (IP) e o descobrimento da rede pelo roteamento dos pacotes - Pacotes
+Data link - Camada responsável pelo endereçamento fisico (MAC) e pela comunicação na rede local - Frames
+Physical - Camada que transporta os dados em bits através de sinais elétricos pelo meio físico (cabos, fibra ou sinal sem fio) - Bits
+
+PDU - PDU (Protocol Data Unit) é o nome dado à unidade de informação que cada camada do modelo OSI manipula (Segmentos, Pacotes, Frames, Bits)
 
 Topologia de Redes
 
