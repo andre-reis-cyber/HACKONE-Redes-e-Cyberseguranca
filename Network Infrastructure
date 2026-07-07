@@ -30,5 +30,10 @@ Camada de Distribuição- Responsável pelo fluxo de tráfego interno e externo 
 Camada de acesso - Conecta os dispositivos finais à rede (switches, PCs, APs, impressoras, etc.)
 
 Mac Adrees 
-OUI - Organisationally Unique Identifier
-NIC - Network Interface Controller
+48 bits - 00:00:00:00:00:00
+Primeiros 24 bits = OUI - Organisationally Unique Identifier
+
+Tabela ARP
+
+Tabela que grava o IP referente a cada MAC Adress
+Manda um ARP request em Broadcast para descobrir o MAC de um IP específico e recebe um ARP reply com o MAC
