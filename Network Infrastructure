@@ -37,3 +37,42 @@ Tabela ARP
 
 Tabela que grava o IP referente a cada MAC Adress
 Manda um ARP request em Broadcast para descobrir o MAC de um IP específico e recebe um ARP reply com o MAC
+
+Binário e Decimal
+
+IPv4 - 4 campos ( ___.___.___.___ ) cada um contendo 8 bits, dando um total de 32 bits
+
+Convertendo binário para decimal 
+
+Exemplo convertendo o número 10 Decimal em Binário
+
+Montamos a tabela do 2 elevado a 0 até o 2 elevado a 7
+
+| 2⁷  | 2⁶ | 2⁵ | 2⁴ | 2³ | 2² | 2¹ | 2⁰ |
+| 128 | 64 | 32 | 16 | 8  | 4  | 2  | 1  |
+
+Agora procuramos quais valores somados resultam em 10.
+
+O maior valor que cabe em 10 é 8
+10 - 8 = 2
+O próximo valor que cabe é 2
+2 - 2 = 0
+
+Então usamos 8 e 2:
+
+| 2⁷  | 2⁶ | 2⁵ | 2⁴ | 2³ | 2² | 2¹ | 2⁰ |
+| 128 | 64 | 32 | 16 | 8  | 4  | 2  | 1  |
+|  0  |  0 |  0 |  0 | 1  | 0  | 1  | 0  |
+
+Resultado:
+10 = 00001010
+
+
+
+
+
+
+
+
+
+
