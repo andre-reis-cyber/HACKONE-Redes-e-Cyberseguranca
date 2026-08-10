@@ -67,8 +67,21 @@ Então usamos 8 e 2:
 Resultado:
 10 = 00001010
 
+Arquitetura de Redes
 
+Arquitetura de Redes se refere a maneira a qual equipamentos de rede e serviços são estruturados para atender as necessidades de um negócio
 
+PPDIOO
+
+Um framework desenvolvido pela CISCO para gerenciamento de ciclo de vida, permite que profissionais de redes gerenciem melhor seus ambientes de rede 
+Prepare, Plan, Design, Implement, Operate, Optimize
+
+Prepare - Apresentação de requisitos do negócio, visão e estratégia, entender os requisitos
+Plan - Desenvolver planp de projeto, planeja alocação de recursos
+Design - Desenvolver/ atualizar a compreensao do design proposto, considerar aspectos fisicos e lógicos do ambiente
+Implement - Setup e configuração de ambiente de teste (se possível), Identificar e resolver problemas, criar plano de execução e iniciar implementação
+Operate - Monitoramento pró-ativo e reativo, gerenciamento de performance e problemas
+Optimize - Comparar os requisitos técnicos atuais com aqueles usados quando a rede foi projetada
 
 
 
