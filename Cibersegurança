@@ -19,3 +19,13 @@ Segurança da Informação x Cibersegurança
 
 Segurança da informação é o conjunto de medidas e processos utilizados para proteger informações confidenciais, ela vai tratar da segurança diretamente dos dados
 Cibersegurança se concentra na proteção de informações e sistemas tecnológicos, especialmente na internet, ela vai tratar da segurança da infraestrutara e equipamentos
+
+Os riscos são possíveis eventos negativos que podem afetar uma organização, um sistema ou um processo
+As vulnerabilidades são as fraquezas ou pontos fracos em sistemas, processos ou procedimentos que podem ser explorados por ameaças
+As ameaças são os agentes externos ou circunstâncias que podem explorar as vulnerabilidades e causar danos aos sistemas, processos ou organizações. Vamos entender como tudo isso é correlacionado
+
+Vetor de Ataque - Meio utilizado na implementação de um ataque (Ataque por browser, mensagens, anexos, etc)
+
+Brute Force
+
+Ataques de força bruta que tentam descobrir o usuário e senha de alguem através de tentativa e erro com wordlists e softwares especializados 
