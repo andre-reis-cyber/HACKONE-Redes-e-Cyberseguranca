@@ -1,0 +1,21 @@
+O que é a cibersegurança?
+
+É a redução de riscos de ataques em redes de computadores e softwares, através de equipamentos, metodologias, procedimentos e normas
+
+CERT.br - instituição que auxilia na identificação de ameaças e produz estatísticas confiáveis e atualizadas, servindo as empresas na identificação e na avaliação dos riscos e também contribuindo com o planejamento e o direcionamento dos investimentos em cibersegurança
+
+Definições, Conceitos e Termos
+
+WORM - Vírus que se propaga lateralmente pela rede, tenta achar brechas pre programadas em seu codigo em uma rede
+DoS - Denial of Service - Ataque de negação de serviço onde muitas requisições são feitas em um determinado destino (sites, servidor, etc) negando o serviço do destino e deixando ele inoperante
+DDoS - Distributed  Denial of Service - Diversas máquinas enviando as requisições no mesmo momento colapsando o destino
+BotNet - Rede de varias maquinas infectadas onde o atacante consegue controlar remotamente
+Web - termo ligado ao protocolo http para acessar sites, serviços, etc (Não é o mesmo que internet) 
+Internet - Rede mundial de computadores
+Scan - Varredura/Análise em uma rede ou aplicação
+Fraude - Tentativa de burlar o sistema ou se passar por algo que você não é
+
+Segurança da Informação x Cibersegurança
+
+Segurança da informação é o conjunto de medidas e processos utilizados para proteger informações confidenciais, ela vai tratar da segurança diretamente dos dados
+Cibersegurança se concentra na proteção de informações e sistemas tecnológicos, especialmente na internet, ela vai tratar da segurança da infraestrutara e equipamentos
