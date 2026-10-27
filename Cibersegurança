@@ -26,6 +26,24 @@ As ameaças são os agentes externos ou circunstâncias que podem explorar as vu
 
 Vetor de Ataque - Meio utilizado na implementação de um ataque (Ataque por browser, mensagens, anexos, etc)
 
-Brute Force
+Brute Force - Ataques de força bruta que tentam descobrir o usuário e senha de alguem através de tentativa e erro com wordlists e softwares especializados 
 
-Ataques de força bruta que tentam descobrir o usuário e senha de alguem através de tentativa e erro com wordlists e softwares especializados 
+DoS - esse ataque faz um flooding no tráfego com requisições ou pedidos de conexão, parando o sistema ou até mesmo causando lentidão
+
+Malware - é um código (software) criado para sequestrar, prejudicar ou até mesmo espionar um sistema infectado
+
+Ataques web, ou melhor, direcionados para os serviços web, têm como objetivo a obtenção de dados ou causar prejuízos ao serviço como descontinuidade ou descaracterização (defacement)
+
+Insider - Um funcionário da empresa que atua contra a propria empresa facilitando/divulgando vazamentos, facilitando acessos externos, etc
+
+Controles para mitigações de riscos
+
+CIS - Center of Internet Security elaborou um guia com 20 controles para mitigação de riscos na internet
+
+Os 5 primeiros mitigam cerca de 85% dos Cyber ataques, são eles:
+
+1 - Inventário dos dispositivos autorizados da rede;
+2 - Cadastro dos Softwares da rede (Versão, licenciamento, etc);
+3 - Gerenciamento e Implementação de configuração segura;
+4 - Mecanismos qua façam a Avaliação e Remediação periódica de seus Ativos;
+5 - Manutenção de privilégios mínimos.
