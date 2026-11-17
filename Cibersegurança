@@ -1,3 +1,7 @@
+==============================================================================================================================================================================================================================================================================
+
+Introdução a Cibersegurança
+
 O que é a cibersegurança?
 
 É a redução de riscos de ataques em redes de computadores e softwares, através de equipamentos, metodologias, procedimentos e normas
@@ -48,6 +52,10 @@ Os 5 primeiros mitigam cerca de 85% dos Cyber ataques, são eles:
 4 - Mecanismos qua façam a Avaliação e Remediação periódica de seus Ativos;
 5 - Manutenção de privilégios mínimos.
 
+==============================================================================================================================================================================================================================================================================
+
+Tecnologia e Segurança
+
 Crimes Digitais
 Crime cometidos que dependem ou ocorrem no meio da tecnologia, exemplos, hacking/invasão, criação de um perfil fake, criação de um site falso
 
@@ -60,7 +68,22 @@ Hackers - Pessoas que tentam achar vulnerabilidades e fragilidades no sistema ou
 Crackers - Pessoas com objetivo de quebrar as funcionalidades e segurança de um sistema ou código
 Insider - Uma pessoa de dentro da empresa que coleta dados ou ataca a empresa para vender informações
 
+LGPD
+Lei que regulamenta o tratamento de dados pessoais no meio da internet 
+Dado Pessoal - Um dado que pode auxiliar a identificar uma pessoa
+Dado Sensivel - Dados particulares de cada cidadão (Etnia, religião, sexualidade, etc)
+Na LGPD a TI é responsável manter e tratar os dados além de implantar novas tecnologias para segurança e monitoramento dos dados
 
+==============================================================================================================================================================================================================================================================================
 
+Governança Riscos e Compliance
 
+O que é GRC
+Na segurança o GRC atua como uma conexão entre estratégia corporativa, operação técnica e exigências de regulamentações
+É muito importante a tecnologia estar sempre alinhado com as boas práticas de GRC pois é ela que irá fazer com que a mesma esteja indo para o caminho certo e tenha controle sobre os resultados 
 
+Governança Riscos e Compliance resolvem problema diferentes, porém sempre estão juntos pois se sustentam e se apoiam em direção, prioridade e obrigação ao mesmo tempo 
+
+Governança - Dá a direção, Define Objetivos (Mostra o que precisa proteger)
+Riscos - Define Prioridades, Aponta o mais provavel e mais grave (Mostra onde investir primeiro)
+Compliance - Garante Conformidade, Assegura que tudo respeite a lei, normas e contratos
