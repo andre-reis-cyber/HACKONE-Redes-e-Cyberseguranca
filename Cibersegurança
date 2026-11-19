@@ -105,3 +105,40 @@ Governança é o sistema pelo qual uma organização será dirigida, monitorada 
 3. Papéis Definidos (Cada grupo com papéis bem definidos sem lacunas de responsabilidade)
 4. Comitês de Decisão (Fóruns, pautas e indicadores com participação de dviersos setores da empresa para conhecimento e uma visão macro de todos)
 5. Modelo de Reporte (Dados, documentações, planos de ação para uma visibilidade real)
+
+Riscos - Risco existe quando uma ameaça encontra uma vulnerabilidade em um ativo que causará um impacto 
+
+Gestão de Riscos - Um processo contínuo para descobrir o que pode dar errado e decidir o que fazer a respeito
+
+Etapas
+1. Identificar - Ativos e Brechas onde pode dar errado
+2. Analisar - Estimar a chance de acontecer e o impacto
+3. Avaliar - Comparar e definir as prioridades
+4. Tratar - Mitigar, transferir, evitar ou aceitar o risco
+5. Monitorar - Acompanhar duranto o tempo
+
+Como a governança funciona do risco até a decisão
+
+- O risco aparece (crescimento de tentativas de phishing na empresa)
+- Vira informação (TI leva ao comitê dados, impactos, recorrência, etc)
+- O comitê decide (Diretoria aprova MFA obrigatório nos sistemas, treinamento e cronograma)
+- Formaliza a exceção (Define processo formal de exceção para sistemas legados que não suportam MFA)
+Aqui o diferencial não foi a implantação do MFA e sim a decisão da prioridade, orçamento, prazo, exceção e acompanhamento da solução
+
+Compliance - o conjunto de obrigações que uma organização é obrigada a cumprir, vinda de 5 principais fontes
+
+1. Leis
+2. Regulamentos
+3. Normas e frameworks
+4. Contratos
+5. Políticas Internas
+
+O Compliance não basta dizer que faz, também é necessário mostrar e provar com evidências que ela faz
+
+ISO - Organização Internacional de Padronização
+Tem objetivo de criar padrões, referências, boas práticas para as empresas seguirem
+As normas ISO são agnósticas, ou seja, elas dizem o que precisa ser feito mas não como precisa ser feito, ela não engessa a empresa em uma tecnologia, cobra o resultado e deixa o caminho aberto para como a empresa chegará a esse resultado
+Ter uma certificação ISO atesta que a empresa atende a um conjunto de requisitos e é capaz de entregra produtos e serviços que atendam as expectativas dos clientes. É um selo reconhecido mundialmente
+
+
+
