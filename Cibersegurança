@@ -140,5 +140,62 @@ Tem objetivo de criar padrões, referências, boas práticas para as empresas se
 As normas ISO são agnósticas, ou seja, elas dizem o que precisa ser feito mas não como precisa ser feito, ela não engessa a empresa em uma tecnologia, cobra o resultado e deixa o caminho aberto para como a empresa chegará a esse resultado
 Ter uma certificação ISO atesta que a empresa atende a um conjunto de requisitos e é capaz de entregra produtos e serviços que atendam as expectativas dos clientes. É um selo reconhecido mundialmente
 
+ISO 27001
 
+É uma norma internacional que estabelece os requisitos para implementar, operar e melhorar um sistema de gestão de segurança da informação
+Um dos objetivos da ISO 27001 é proteger a triade CID
+Confidencialidade (Acesso a informação só pra que tem autorização), Integridade (Informação sempre correta e não será alterada indevidamente) e Disponibilidade (Informação acessível sempre que necessário)
+
+Benefícios da ISO 27001
+
+A empresa para de focar apenas em apagar incendios, so reagindo a problemas que ja aconteceram e foca mais na prevenção desses problemas, mapenado vulnerabilidades antes de serem exploradas e implementado controle proativos
+Além de propocionar um impacto direto no negócio, garantindo mais confiança, credibilidade, conformida legal e vantagem competitiva ao ter o selo de qualidade global da ISO
+
+Boas práticas para implementação do SGSI (Sistema de Segurança da Informação)
+
+Ciclo PDCA (Plan, Do, Act, Check)
+
+Um sistema que roda em ciclo para estar sempre pronto para as mudanças das ameaças e crescimento do negócio
+Planejar - Escopo, Riscos e Objetivos
+Executar - Implementar controles e treinamentos
+Agir - Correção e melhoria 
+Verificar - Medir, Auditar e Revisar resultados
+
+Escopo do SGSI - A segurança deve ser estruturada em cima desses 3 pilares
+
+Pessoas - Todos que interagem com o sistema
+Processos - Como a segurança é aplicada
+Ativos - O que deve ser protegido, recursos de valor
+
+Requisitos do SGSI
+Os requistos 4 a 10 da ISO 27001
+
+4. Contexto da Organização - Entender a empresa
+5. Liderança - Comprometimento da alta direção
+6. Planejamento - Avaliar Riscos, planejar tratamento e definir objetivos
+7. Suporte - Recursos, competências, conscientização, comunicação e doucumentação
+8. Operação - Executar processos 
+9. Avaliação do Desempenho - monitorar, medir, auditar e analisar
+10. Melhoria - Tratar não conformidades e melhorar
+
+Controles de segurança da ISO
+
+O Anexo A da ISO é o catalogo de controles que a empresa pode usar para tratar seus riscos
+São 93 controle, organizados em 4 grupos
+Não sendo necessários uma empresa aplicar todos apenas os que são mais adequados para o tratamento dos riscos da empresa. 
+Esses controles serão registrados em um documento chamado Declaração de Aplicabilidade (SoA), que irá listar os 93 controles e para cada um diz se é aplicado ou não e por quê
+
+4 Grupos
+
+Controles Organizacionais - 37 controles
+Politicas, papéis, fornecedores, nuvem, resposta a incidentes
+
+Controles Pessoas - 8 controles
+Trinamento, trabalho remoto, acordos de confidencialidade
+
+Controles Físicos - 14 controles
+Perímetro, controle de entradas em salas importantes, mesa e tela limpas
+
+Controles Tecnológicos - 34 controles
+Acesso, criptografia, backup, registro, código seguro
 
