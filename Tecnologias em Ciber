@@ -1,1 +1,37 @@
+=====================================================================================================================================================================================================================================================================================
+Segurança de Infraestrutura
 
+CSMA (Cybersecurity Mesh Architecture)
+As empresas atualmente precisam de uma arquitetura Mesh de cibersegurança, que compôe todas as soluções de segurança em um ponto unico de visibilidade
+Garantindo interoperabilidade entre os diversos produtos de seu ambiente, postura de segurança consolidada e reduzindo complexidade operacional
+
+Riscos na Segurança Corporativos 
+
+Riscos Fisicos (Incêndios, furtos, etc)
+Riscos Cibernéticos (Vírus, phishing, sequestro de dados, etc)
+Riscos de Conformidade (Violar leis e regulamentos)
+Riscos de Reputação (Incidentes que prejudicam a imagem da empresa)
+Riscos Sociais (Atos ilegais e antiéticos)
+Riscos de Comprometimento de Informações Sensíveis (Quebra de confidencialidade, integridade, autenticidade e disponibilidade)
+Riscos de Continuidade dos Negócios (Empresa para operação por desastres naturais, problemas operacionais, problemas de mercado externo, etc)
+
+Navegação Segura
+
+A importância de uma navegação segura na internet são a segurança do usuário e da corporação e a diminuição do risco de ataques
+Para navegarmos com segunraça precisamos sempre seguir esses passos
+
+- Instalar softwares originais e confiáveis
+- Possuir um EndPoint Protection (Antivírus)
+- Conectar apenas em redes Wi-Fi confiáveis e conhecidas
+- Evitar abrir e-mails desconhecidos
+- Utilizar autenticação de dois fatores
+- Alterar regularmente senhas de cadastros
+- Manter sistemas atualizados
+
+Soluções que aumentam a segurança da navegação
+
+ZTNA (Zero Trust Network Acess) - Controla o acesso à internet e aos recursos internos de uma empresa, verificando continuamente algumas questões como quem está acessando, se o dispositivo é confiável, etc 
+Firewall -  Solução com várias funções para garantir uma navegação segura, contendo Antivírus, Web Filter e monitorando e controlando o tráfego de rede, permitindo ou bloqueando conexões com base em regras predefinidas
+SASE - Arquitetura que  integra conectividade e segurança em uma plataforma na nuvem, protegendo os usuários independentemente de onde estejam
+
+=====================================================================================================================================================================================================================================================================================
