@@ -34,4 +34,19 @@ ZTNA (Zero Trust Network Acess) - Controla o acesso à internet e aos recursos i
 Firewall -  Solução com várias funções para garantir uma navegação segura, contendo Antivírus, Web Filter e monitorando e controlando o tráfego de rede, permitindo ou bloqueando conexões com base em regras predefinidas
 SASE - Arquitetura que  integra conectividade e segurança em uma plataforma na nuvem, protegendo os usuários independentemente de onde estejam
 
+Principais diferenças entre DoS e DDoS
+
+- O DoS vem de um único local, se tornando mais fácil detectar sua origem e cortar a conexão, já o DDoS vem de vários locais remotos, disfarçando a sua origem
+- O ataque DDoS pode ser implantado muito mais rápido do que um ataque DoS por vir de vários locais
+- Um ataque DDoS pode enviar quantidade de tráfegos muito maiores que um ataque DoS
+- Um ataque DDoS coordena vários bots (hosts infectados) criando uma botnet, já o DoS usa normalmente um script ou uma ferramenta a partir de uma única máquina
+- 
+
+Proteção contra DDoS
+
+Next-Generation Firewall
+IDS (Intrusion Detection System)
+IPS (Intrusion Prevention System)
+Soluções Anti-DDoS
+
 =====================================================================================================================================================================================================================================================================================
