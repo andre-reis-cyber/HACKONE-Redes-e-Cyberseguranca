@@ -1,4 +1,4 @@
-=====================================================================================================================================================================================================================================================================================
+===============================================================================================================================================================================================================================================================================
 Segurança de Infraestrutura
 
 CSMA (Cybersecurity Mesh Architecture)
@@ -49,4 +49,75 @@ IDS (Intrusion Detection System)
 IPS (Intrusion Prevention System)
 Soluções Anti-DDoS
 
-=====================================================================================================================================================================================================================================================================================
+Proteção do E-mail
+
+E-mail hoje em dia é uma das principais ferramentas de comunicação no ambiente corporativo e uma das mais faceis de se encontrar uma vunerabilidade através de ataques de spam, phishing, etc
+Hoje em dia para as empresas terem segurança elas tem que proteger suas contas de E-mail com a utilização de Politicas e Ferramentas de Proteção
+
+Ameaças existentes através do E-mail
+
+- Exfiltração de Dados
+- Phising
+- Spam
+- Malware
+- Usurpação de Identidade
+
+Objetivos de uma solução de segurança de E-mail
+
+- Proteção da marca, reputação e resultados da empresa
+- Otimiza a produtividade
+- Garante conformidade com leis
+
+Principais práticas para a segurança do E-mail
+
+- Investir em treinamento dos usuários
+- Atualização de Solução
+- Multifator de Autenticação
+- Revisão das Proteções
+
+===============================================================================================================================================================================================================================================================================
+Cloud Security, DevOps e DevSecOps
+
+DevOps - É uma combinação de 3 pilares, Cultura(Pessoas), Práticas(Processos) e Ferramentas
+As Pessoas estão acima dos Processos que estão acima das Ferramentas
+A ideia é sempre integrar os nossos times para entregar valor para o negócio
+
+O pilar de Cultura é a base de tudo, trata-se de mudar a forma como as pessoas trabalham juntas
+
+O pilar de Processos no DevOps visa elegibilizar a cultura determinando o que devemos fazer
+- Automação
+- Infraestrutura como código
+- Integração e entrega contínua (CI/CD)
+- Monitoramento e Melhoria Contínua
+
+O pilar de Ferramentas no DevOps é o que automatiza e sustenta os processos, ele coloca as coisas para funcionar no dia a dia
+
+Benefícios no dia a dia
+
+- Colaboração entre os times
+- Entrega Rápida
+- Escalabilidade
+- Segurança
+- Confiabilidade
+- Manutenabilidade
+
+O que é CI/CD?
+
+CI - Continuous Integration ou Integração Contínua 
+CD - Continuos Delivery/Continuos Deployment ou Entrega Contínua/Implantação contínua
+
+Quando falamos em CI estamos falando nas etapas inicias no Desenvolvimento de Software
+Quando falamos em CD estamos falando nas etapas de entrega e monitoração do Software
+
+A diferença entre Entrega Contínua e Implantação Contínua é que a Entrega tem a intervenção manual durante o processo, já a implantação não
+Na Entrega Contínua todo código que passa pelos testes fica pronto para ser publicado, mas a publicação em produção exige uma aprovação manual
+Na Implantação Contínua se o código passou em todos os testes automatizados, ele vai direto para produção, sem intervenção humana
+
+Abaixo as etapas de um Desenvolvimento de Software
+
+Codificar > Compilar > Testar > Provisionar > Implantar > Monitorar
+
+A fase de CI visa as etapas de Codificação, Compilação e Testes com a motivação de dizer ao Desenvolvedor se tudo está conforme o esperado
+A fase de CD visa as etapas de Provisionamento, Implantação e Monitoração com a motivação de dizer ao Operador se o software está funcionando corretamente no ambiente de destino
+
+===============================================================================================================================================================================================================================================================================
