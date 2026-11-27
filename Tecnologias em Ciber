@@ -120,4 +120,15 @@ Codificar > Compilar > Testar > Provisionar > Implantar > Monitorar
 A fase de CI visa as etapas de Codificação, Compilação e Testes com a motivação de dizer ao Desenvolvedor se tudo está conforme o esperado
 A fase de CD visa as etapas de Provisionamento, Implantação e Monitoração com a motivação de dizer ao Operador se o software está funcionando corretamente no ambiente de destino
 
+Versionamento de código é o ponto inicial do DevOps
+Precisa ser centralizado (Todos colaboram e gravam alterações em um servidor externo)
+As vantagens são o isolamento de versões, a comparação de versões, Histórico de alterações e a reversão de versões
+Ferramentas - Repositórios Git
+
+Pipeline(Esteira) de Integração Contínua
+Uma ferramenta para orquestrar todas as etapas e manter tudo automatizado, que traz formas gráficas para acompanhar o que acontece durante o processo
+É uma esteira automatizada que leva o código desde o commit até a produção, com verificações em cada etapa
+Ferramentas de Esteira - Jenkins, Spinnaker, CircleCI, Azure DevOps, AWS CodePipeline
+Ferramentas para compilação - Jenkins, Circle CI, Travis CI, Bamboo, TeamCity
+
 ===============================================================================================================================================================================================================================================================================
